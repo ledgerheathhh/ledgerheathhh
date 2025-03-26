@@ -5,7 +5,7 @@
   </div>
     
   <!-- knock code pictures -->
-  <div>
+  <div style="border-radius: 10px; width: 500px;" >
     <img style="border-radius: 10px; width: 500px;" src="https://cdn.jsdelivr.net/gh/ledgerheathhh/ledgerheathhh/coding.gif" />
   </div>
   
