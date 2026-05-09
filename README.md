@@ -7,7 +7,7 @@
   <br />
 
   <img
-    width="560"
+    width="500"
     src="https://cdn.jsdelivr.net/gh/ledgerheathhh/ledgerheathhh/coding.gif"
     alt="Coding animation"
   />
@@ -37,15 +37,22 @@
 
 ### About Me
 
-- 🔭 Currently working on **WebPilot**
-- 🌱 Currently learning **Flutter**
+- 🌱 Learning **Flutter** and deepening my **iOS development** skills
+- 💬 Ask me about **Objective-C, Vue, Swift, and frontend development**
 - 👯 Open to collaborating on **open source projects**
-- 🤝 Looking for help with **iOS development**
-- 💬 Ask me about **Objective-C, Vue, Swift, and iOS development**
 - 🏸 Fun fact: **I think I'm a good badminton player**
-- 👨‍💻 Projects: **[github.com/ledgerheathhh](https://github.com/ledgerheathhh)**
 - 📝 Blog: **[ledgerheathhh.github.io](https://ledgerheathhh.github.io/)**
-- 📄 Experience: **[About me](https://ledgerheathhh.github.io/about/)**
+- 📄 More about me: **[ledgerheathhh.github.io/about](https://ledgerheathhh.github.io/about/)**
+
+### Featured Work
+
+| Project | What it shows |
+| --- | --- |
+| **[TrashOhh](https://github.com/ledgerheathhh/TrashOhh)** | A SwiftUI garbage classification app powered by CoreML. |
+| **[Chronos](https://github.com/ledgerheathhh/Chronos)** | A Chrome extension for tracking and recording time spent across websites. |
+| **[MetroTab](https://github.com/ledgerheathhh/MetroTab)** | A Vue 3 + TypeScript browser homepage with a Microsoft-inspired tile layout. |
+| **[Brain-Dump](https://github.com/ledgerheathhh/Brain-Dump)** | A personal knowledge base with TypeScript algorithms, iOS notes, and daily learnings. |
+| **[ledgerheathhh.github.io](https://github.com/ledgerheathhh/ledgerheathhh.github.io)** | A Jekyll Chirpy technical blog for iOS and frontend writing. |
 
 ### Tech Stack
 
@@ -99,7 +106,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+### GitHub Stats
 
 <p align="left">
   <img
